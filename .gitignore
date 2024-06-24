@@ -154,3 +154,6 @@ debug*/
 *.gz
 
 cache/
+
+# Thomas' stuff
+test_images*
